@@ -8,7 +8,3 @@ Instructions:
 - If you aren’t sure how to solve a problem, try your best. You will receive partial credit for pseudocode/practice code.
 - You can raise your hand for help from the instructor
 - When you have finished, upload your source code files to Canvas or GitHub.
-
-Problems:
-
-Add classes to IMDB-like data model or to a wallet describing several types of money. 
