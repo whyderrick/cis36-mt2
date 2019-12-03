@@ -1,4 +1,4 @@
-#CIS 36A Midterm 2 Practical Exam
+# CIS 36A Midterm 2 Practical Exam
 
 ## Practical Exam
 Instructions:
