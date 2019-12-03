@@ -27,9 +27,9 @@ paid for from the stars in his lineup. These are the tiers of stars.
 - Value increase by $500 every time they **shoot a TV episode**
 - Value increase by $500 every time they **perform a voiceover**
 
+### Bonus Points
 The agent receives a 5% commission fee on work for A List celebs, 10% on B List
 celebs, and 30% for reality stars.
-
 
 The goal of your program is to create a single method that tells how much of a
 fee they make if they have some number of clients at different tiers who all do
